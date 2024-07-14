@@ -12,14 +12,28 @@ Highly Accurate Prediction Based On Easily Available Data Such As Temparature,Re
 
 # Solution
 
-We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data to Address This Problem.
+We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data Based On The Canadian Forest Fire Weather Index (FWI) System to Address This Problem.
 
 # Dataset
 The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue From Existing Dataset.
 ## Usable Features
 - Temperature || Celsius degrees: 22 to 42
-- Relative Humadity(RH) || Relative Humidity in %: 21 to 90
-- Wind Speed(WS) || Wind speed in km/h: 6 to 29
+- Relative Humadity (RH) || Relative Humidity in %: 21 to 90
+- Wind Speed (WS) || Wind speed in km/h: 6 to 29
+- Rain || Total day in mm: 0 to 16.8
+- Fine Fuel Moisture Code (FFMC) || Index from the FWI system: 28.6 to 92.5
+- Duff Moisture Code (DMC) || Index from the FWI system: 1.1 to 65.9
+- Drought Code (DC) ||  Index from the FWI system: 7 to 220.4
+- Initial Spread Index (ISI) || Index from the FWI system: 0 to 18.5
+- Buildup Index (BUI) || Index from the FWI system: 1.1 to 68
+- Classes: two classes || [0--> Not Fire] [1--> Fire]
+## Target
+-Fire Weather Index (FWI) || Index: 0 to 31.1 
+
+### Download It Here
+[Algerian Forest Fires Dataset](https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset)
+ 
+
 
 
 
