@@ -17,6 +17,7 @@ scalar=pickle.load(open('Model/scaler.pkl','rb'))
 def index():
     return render_template('index.html')
 '''
+#prediction
 @app.route("/",methods=['GET','POST'])
 def predict_datapoint():
     if request.method=='POST':
