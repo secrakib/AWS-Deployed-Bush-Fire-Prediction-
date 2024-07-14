@@ -9,14 +9,14 @@ Algeria experiences frequent forest fires, particularly during the hot and dry s
 Forest fires in Algeria pose serious threats to biodiversity, property, and human life. They contribute to deforestation and soil erosion, which can have long-term environmental impacts. The Algerian government and firefighting services work to combat these fires, but limited resources and challenging terrain often complicate their efforts.
 In recent years, Algeria has faced particularly severe fire seasons, with some years seeing hundreds of fires and thousands of hectares of forest destroyed. Climate change is expected to exacerbate the risk and intensity of forest fires in the region.
 
-# Approach to Solution
+# Solution Approach
 
 Highly Accurate Prediction Based On Easily Available Data Such As Temparature,Relative Humadity,Wind Speed etc.. Can Help Mitigate The Spread Of Bush Fire.
 
-# Solution
+# Best Model 
 
-We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data Based On The Canadian Forest Fire Weather Index (FWI) System to Address This Problem. 
-We Achieved An Accuracy Of *97.1%*
+We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data Based On The Canadian Forest Fire Weather Index (FWI) System to Address This Problem.   
+**Elasticnet CV -- R2 Of *97.1%*** 
 
 ![Screenshot (79)](https://github.com/user-attachments/assets/5e206c34-1dae-4229-91b5-c3416a567e95)
 
@@ -34,10 +34,13 @@ The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue Fro
 - Buildup Index (BUI) || Index from the FWI system: 1.1 to 68
 - Classes: two classes || [0--> Not Fire] [1--> Fire]
 ## Target
--Fire Weather Index (FWI) || Index: 0 to 31.1 
+- Fire Weather Index (FWI) || Index: 0 to 31.1 
 
 ### Download It Here
 [Algerian Forest Fires Dataset](https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset)
+
+# Workflow Diagram
+
  
 
 
