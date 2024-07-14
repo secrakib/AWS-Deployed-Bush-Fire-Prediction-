@@ -11,11 +11,11 @@ app=application
 ridge_model=pickle.load(open('Model/model.pkl','rb'))
 scalar=pickle.load(open('Model/scaler.pkl','rb'))
 
-
-#app.route("/")
-#def index():
-#    return render_template('index.html')
-
+'''
+app.route("/")
+def index():
+    return render_template('index.html')
+'''
 #prediction
 @app.route("/",methods=['GET','POST'])
 def predict_datapoint():
