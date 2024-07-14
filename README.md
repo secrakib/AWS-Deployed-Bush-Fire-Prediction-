@@ -1,5 +1,8 @@
 # Let It <strike>```Burn 🔥```</strike> 
 https://let-it-not-fire.onrender.com/
+> Can Take Up To 50 Seconds To Run Due To Free Plan. Patience Please 🥺
+
+<br>
 
 # How To...
 https://github.com/user-attachments/assets/d273a768-fc32-43e0-b0e3-efe6e0090f5e
