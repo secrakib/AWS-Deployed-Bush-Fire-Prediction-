@@ -15,7 +15,10 @@ Highly Accurate Prediction Based On Easily Available Data Such As Temparature,Re
 
 # Solution
 
-We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data Based On The Canadian Forest Fire Weather Index (FWI) System to Address This Problem.
+We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available Data Based On The Canadian Forest Fire Weather Index (FWI) System to Address This Problem. 
+We Achieved An Accuracy Of *97.1%*
+
+![Screenshot (79)](https://github.com/user-attachments/assets/5e206c34-1dae-4229-91b5-c3416a567e95)
 
 # Dataset
 The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue From Existing Dataset.
