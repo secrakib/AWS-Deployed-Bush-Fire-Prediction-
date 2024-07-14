@@ -53,5 +53,11 @@ The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue Fro
 pip install numpy pandas scikit-learn Flask gunicorn
 ```
 
+# Clone The Repo
 
+``` 
+https://github.com/secrakib/Save-The-Forest.git
+```
+# Licenses
+<table><tr><td> MIT License </td></tr></table>
 
