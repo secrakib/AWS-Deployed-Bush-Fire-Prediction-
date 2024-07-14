@@ -41,8 +41,9 @@ The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue Fro
 
 # Workflow Diagram
 
- 
+![Work Flow Bush Fire_page-0001](https://github.com/user-attachments/assets/9c751441-edee-4f21-a4fa-ca7cf0bac02e)
 
+[Work Flow Bush Fire.pdf](https://github.com/user-attachments/files/16216577/Work.Flow.Bush.Fire.pdf)
 
 
 
