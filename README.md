@@ -33,6 +33,9 @@ The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue Fro
 - Initial Spread Index (ISI) || Index from the FWI system: 0 to 18.5
 - Buildup Index (BUI) || Index from the FWI system: 1.1 to 68
 - Classes: two classes || [0--> Not Fire] [1--> Fire]
+- Region
+   - Bejaia -> 0
+   - Sidi Bel-abbes -> 1
 ## Target
 - Fire Weather Index (FWI) || Index: 0 to 31.1 
 
@@ -45,7 +48,10 @@ The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue Fro
 
 [Workflow Diagram.pdf](https://github.com/user-attachments/files/16227597/Workflow.Diagram.pdf)
 
-
+# Install Libraries
+```
+pip install numpy pandas scikit-learn Flask gunicorn
+```
 
 
 
