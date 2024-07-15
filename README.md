@@ -8,9 +8,7 @@ https://let-it-not-fire.onrender.com/
 https://github.com/user-attachments/assets/d273a768-fc32-43e0-b0e3-efe6e0090f5e
 
 # Problem Statement  
-Algeria experiences frequent forest fires, particularly during the hot and dry summer months. These fires primarily affect the northern regions of the country, where Mediterranean forests and woodlands are prevalent. The fires can be caused by natural factors like extreme heat and drought, but human activities such as agricultural burning or accidental ignitions also play a significant role.
-Forest fires in Algeria pose serious threats to biodiversity, property, and human life. They contribute to deforestation and soil erosion, which can have long-term environmental impacts. The Algerian government and firefighting services work to combat these fires, but limited resources and challenging terrain often complicate their efforts.
-In recent years, Algeria has faced particularly severe fire seasons, with some years seeing hundreds of fires and thousands of hectares of forest destroyed. Climate change is expected to exacerbate the risk and intensity of forest fires in the region.
+Algeria has frequent wildfires, especially in the north during summer. These fires are caused by both natural factors (heat, drought) and human activities (agriculture, accidents). The fires damage the environment and are difficult to fight due to limited resources and terrain. The situation is expected to worsen due to climate change.
 
 # Solution Approach
 
@@ -23,6 +21,15 @@ We Proposed a Highly Accurate Predictive Model Based On **TEN** Easily Available
 
 ![Screenshot (79)](https://github.com/user-attachments/assets/5e206c34-1dae-4229-91b5-c3416a567e95)
 
+# Stack Used
+- Numpy
+- Pandas
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+- Pickle
+- Flask
+  
 # Dataset
 The Dataset Contains 14 Features. We Used 9 Features and Enginerred 1 featue From Existing Dataset.
 ## Usable Features
